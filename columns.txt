@@ -1,0 +1,7 @@
+Gaia: ra, dec, ra_error, dec_error, pmra, pmra_error, pmdec, pmdec_error, par, par_error, par_over_error, ra_dec_corr, gflux, gmag, bpflux, bpmag, rpflux, rpmag, bp_rp, bp_g, g_rp
+
+General info: center_ra, center_ra_error, center_dec, center_dec_error, distance, diameter, avm, mass, num
+
+Josh Simon data: Mv, Mv_error, r1_2, r1_2_error, dist, dist_error, Vhel, Vhel_error, sigma, sigma_error, Fe_H, Fe_H_error, sigFe_H, sigFe_H_error
+
+Matt Walker data: ra, dec, Vhel, Vhel_error, mem
